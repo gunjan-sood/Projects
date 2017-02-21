@@ -18,10 +18,6 @@ About Me: An aspiring Data Scientist currently pursuing my Master's in Applied S
 
 
 
-
-
-
-
 ### List of Projects
 
 1. Individual Projects
