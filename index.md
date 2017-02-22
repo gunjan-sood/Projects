@@ -32,4 +32,5 @@ About Me: An aspiring Data Scientist currently pursuing my Master's in Applied S
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Phone Number - 201-952-7303
+Email Id - gs652@cornell.edu
