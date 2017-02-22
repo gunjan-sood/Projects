@@ -33,4 +33,5 @@ About Me: An aspiring Data Scientist currently pursuing my Master's in Applied S
 ### Support or Contact
 
 Phone Number - 201-952-7303
---Email Id - gs652@cornell.edu
+
+Email Id - gs652@cornell.edu
