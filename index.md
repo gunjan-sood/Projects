@@ -30,7 +30,7 @@ About Me: An aspiring Data Scientist currently pursuing my Master's in Applied S
   * [US Counties Crime Rate](https://github.com/gunjan-sood/academic-projects/blob/master/5030_Project_Report_Final.pdf)
   * [Boston Service Request](https://github.com/gunjan-sood/academic-projects/blob/master/5080_Final_Project.pdf)
 
-### Support or Contact
+### Contact Information
 
 Phone Number - 201-952-7303
 
