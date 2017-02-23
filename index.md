@@ -31,5 +31,5 @@ About Me: An aspiring Data Scientist currently pursuing my Master's in Applied S
   * [Boston Service Request](https://github.com/gunjan-sood/academic-projects/blob/master/5080_Final_Project.pdf)
 
 ### Contact Information
- * Phone Number - 201-952-7303
- * Email Id - gs652@cornell.edu
+  * Phone Number - 201-952-7303
+  * Email Id - gs652@cornell.edu
