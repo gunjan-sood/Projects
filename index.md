@@ -26,7 +26,6 @@ About Me: An aspiring Data Scientist currently pursuing my Master's in Applied S
   * [Boston Service Request](https://github.com/gunjan-sood/academic-projects/blob/master/5080_Final_Project.pdf)
 2. Individual Projects
   * [Daily Celebrity Crossword](https://github.com/gunjan-sood/Individual-Data-Science-projects/blob/master/Crossword%20App%20Review.md)
-  * [Titanic Survivor Analysis](https://public.tableau.com/views/TitanicSuvivalAnalysis_0/Dashboard1?:embed=y&:display_count=yes)
   * [NFL Data Analysis](https://github.com/gunjan-sood/Individual-Data-Science-projects/blob/master/NFL%20Data%20Analysis.md)
   * [Automobile Analysis](https://github.com/gunjan-sood/Individual-Data-Science-projects/blob/master/Automobile_Analysis.md)
 
