@@ -25,7 +25,7 @@ About Me: An aspiring Data Scientist currently pursuing my Master's in Applied S
   * [US Counties Crime Rate](https://github.com/gunjan-sood/academic-projects/blob/master/5030_Project_Report_Final.pdf)
   * [Boston Service Request](https://github.com/gunjan-sood/academic-projects/blob/master/5080_Final_Project.pdf)
 2. Individual Projects
-  * [Quora Machine Learning Challenge]https://github.com/gunjan-sood/Individual-Data-Science-projects/blob/master/Quora%2BMachine%2BLearning.md
+  * [Quora Machine Learning Challenge](https://github.com/gunjan-sood/Individual-Data-Science-projects/blob/master/Quora%2BMachine%2BLearning.md)
   * [Daily Celebrity Crossword](https://github.com/gunjan-sood/Individual-Data-Science-projects/blob/master/Crossword%20App%20Review.md)
   * [NFL Data Analysis](https://github.com/gunjan-sood/Individual-Data-Science-projects/blob/master/NFL%20Data%20Analysis.md)
   * [Automobile Analysis](https://github.com/gunjan-sood/Individual-Data-Science-projects/blob/master/Automobile_Analysis.md)
